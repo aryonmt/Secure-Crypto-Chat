@@ -40,7 +40,7 @@ The project is built on a robust microservices-inspired architecture, managed en
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/aryonmt/Secure-Crypto-Chat
 cd Secure-Crypto-Chat
 ```
 
