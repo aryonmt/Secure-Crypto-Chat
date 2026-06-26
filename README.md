@@ -1,7 +1,5 @@
 # Secure Crypto Chat (NetCipher Suite)
 
-\
-
 A comprehensive, multi-threaded client-server chat application designed to demonstrate both classical cryptography and modern secure communication concepts. Featuring a custom Master Control Panel, real-time network sniffing, and a dynamic Vue.js frontend.
 
 ---
@@ -42,8 +40,8 @@ The project is built on a robust microservices-inspired architecture, managed en
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/aryonmt/Secure-Crypto-Chat
-cd YOUR-REPO-NAME
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+cd Secure-Crypto-Chat
 ```
 
 ### Step 2: Install Dependencies
